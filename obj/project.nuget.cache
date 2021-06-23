@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lr7R86vjjzPeSuZ85gZVZaaOovW40aadzh9T7CdYbT0KVUqJMH3iJBcSkWf/GhJ8VffG+jabXPP2QJCAz4m3jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dhalvors\\CodingAcademy\\TicketPrice\\TicketPrice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhalvors\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
